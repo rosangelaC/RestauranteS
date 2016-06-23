@@ -15,7 +15,7 @@ class Usuario extends Model implements UserInterface, RemindableInterface
 	    "username",
 	    "email",
 	    "password",
-	    "confirmar"
+	    "confirmar",
 	    "restaurante",
 		"idRestaurant"
 	];
