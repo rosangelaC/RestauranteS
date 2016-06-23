@@ -1,0 +1,12 @@
+default .navbar-nav>.divider {
+    background-color: #c1c3c6;
+}
+@media (min-width: 992px)
+.navbar-nav>.divider {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    height: 16px;
+    width: 1px;
+    margin-left: 17px;
+    margin-right: 17px;
+}
